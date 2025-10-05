@@ -5,7 +5,15 @@ They arrive, they wait, they run, and sometimes, they suffer the wrath of your s
 Will you be a fair ruler or a tyrant of time? The CPU clock is ticking.
 
 ---
+## Demo
 
+
+
+https://github.com/user-attachments/assets/1ea20e79-6b07-46b9-bade-75490229b2b9
+
+
+
+---
 ## The Algorithms
 
 Every story needs its characters, and in BurstTime Chronicles, three mighty schedulers take the stage:
@@ -23,7 +31,7 @@ No favorites here. Everyone gets a turn, one time slice at a time.
 It keeps things fair, though a bit dizzying, imagine a spinning CPU trying to please everyone at once.
 
 ---
-
+x
 ## Performance Scores
 
 Every ruler must measure their reign. In BurstTime Chronicles, your success is judged by two scores:
